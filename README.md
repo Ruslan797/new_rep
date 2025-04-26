@@ -1,2 +1,2 @@
 # new_rep
-added commit in README
+added commit in README amend
